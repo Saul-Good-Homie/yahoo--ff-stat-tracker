@@ -8,7 +8,7 @@ class NavBar extends Component {
         <nav className="navbar navbar-expand-lg navbar-light bg-light">
           <div className="container-fluid">
             <a className="navbar-brand" href="/#">
-              eCommerce
+              Yahoo FF Stats
             </a>
             <button
               className="navbar-toggler"
@@ -27,9 +27,6 @@ class NavBar extends Component {
             >
               <ul className="navbar-nav me-auto mb-2 mb-lg-0">
                 <li className="nav-item">Login</li>
-                <li className="nav-item">Cart</li>
-                <li className="nav-item">Customers</li>
-                <li className="nav-item">Dashboard</li>
               </ul>
             </div>
           </div>
